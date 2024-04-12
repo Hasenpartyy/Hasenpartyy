@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Hasenpartyy
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning not Python
+- 💞️ I’m looking to collaborate on Python
+- 📫 How to reach me Python
+- 😄 Pronouns: Python
+- ⚡ Fun fact: Python
